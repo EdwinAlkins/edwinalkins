@@ -2,7 +2,7 @@
 
 #### A Senior Full Stack & DevOps Engineer by day ☼ and a Tech Explorer by night ☾
 
-Senior Full Stack & DevOps Engineer at **D-ICE ENGINEERING**;<br>
+Senior Full Stack & DevOps Engineer at [D-ICE ENGINEERING](https://www.dice-engineering.com/);<br>
 Discover my work on my [Portfolio](https://edwinalkins.github.io/portfolio/);<br>
 Connect with me on [LinkedIn](https://linkedin.com/in/william-nauroy);<br>
 
